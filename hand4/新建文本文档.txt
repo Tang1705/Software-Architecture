@@ -1,0 +1,3 @@
+Select a course project and analyze it. Refactor your system with design patterns. Once plagiarism is found, the score will be zero.
+Requirements: use class diagram to model the original design and the after design with design patterns and tell the pros and cons. If necessary, you can also list relevant source codes.
+
